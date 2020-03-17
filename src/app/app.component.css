@@ -4,3 +4,10 @@
 .helvetica { font-family: 'helvetica neue', helvetica, sans-serif; } 
 .avenir { font-family: 'avenir next', avenir, sans-serif; } 
 .openSans { font-family: 'Open Sans', sans-serif; }
+
+.threeLine{
+    width: 30px;
+    height: 4px;
+    background-color: white;
+    margin: 6px 0;
+}
